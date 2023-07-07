@@ -80,3 +80,6 @@ This mode will provide all the information you might need. You will see location
 * Alt+4 will show or hide flowers which are not the closest one, so only one closest flower could be shown on screen
 * Alt+5 will hide all flowers on different planets
 * Alt+9 will toggle off all previously mentioned keys on and off. Your options will be saved, so after picking what you want, disable their shortcuts to avoid compatability issues with flight scripts like ArchHud
+
+
+![](SubScreen.jpg)
