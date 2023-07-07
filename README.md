@@ -50,7 +50,9 @@ Optionally change **minimalCalibration** value to whatever value you want betwee
 ### Done
 At this point you are fully setup and you can startup PB on your ship. Screen should be blank but turn on. Now you will only need to turn on Mining Site PB once, just turn it on and off. (At this time you will need to relaunch ships PB for new mining site to appear).  
 When that's done you should get AR mode on you screen showing detected miners and container with their status. Repeat Mining site setup for every mining site you have. This is one time setup, after that mining site status will be updated automatically each time you visit it to calibrate while having ship PB enabled. 
- 
+
+## Updating
+When you update script on your ship (miner sites will not need any updates, its fine as it is) don't forget to update emitterChannel as it will get a reset
 
 ## Synchronization
   
