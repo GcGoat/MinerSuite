@@ -51,5 +51,9 @@ When that's done you should get AR mode on you screen showing detected miners an
 ## Synchronization
   
 You can synchronize mining sites status between 2 ship PB's, setup is exactly the same for both ships, what you only need to do is turn both of them on (dont turn on third one, it will derp out). When 2 ship PB's are on you will get progress bar on your screen, this can repeat twice, after its over you can turn off one of the PB's and you are done. Depending on record amount this can take from a second to multiple ones, so just keep calm and enjoy view while its doing its thing.  
+
 # Recommendation 
 Have one central PB at your main org base which is used to synchronize latest information between ships, so that everyone who does mining site calibrations can synchroniza data before going to sites and after returning from those. If you are playing solo then this is not nesecerry. 
+
+# Manual mode
+At this moment in time there is no way to update miners status if you are visiting those over VR. This can be mitigated somewhat by using manual edit mode. Selecting apropriate mining site you can click on left top corner icon which will enable manual edit mode, adjust calibration values by simply click and drag action and click on save button. This will reset timers and record you as a last person who calibrated it. 
