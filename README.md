@@ -2,6 +2,8 @@
 
 ![s](MainScreen.jpg)
 
+Quanta can be sent to Zripss :P
+
 ## Instalation
 
 This is 2 part instalation, one for mining site where your miners are at and one for your dynamic core, aka ship.
