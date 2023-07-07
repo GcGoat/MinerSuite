@@ -1,5 +1,7 @@
 # MinerSuite
 
+![s](MainScreen.jpg)
+
 ## Instalation
 
 This is 2 part instalation, one for mining site where your miners are at and one for your dynamic core, aka ship.
@@ -57,3 +59,22 @@ Have one central PB at your main org base which is used to synchronize latest in
 
 # Manual mode
 At this moment in time there is no way to update miners status if you are visiting those over VR. This can be mitigated somewhat by using manual edit mode. Selecting apropriate mining site you can click on left top corner icon which will enable manual edit mode, adjust calibration values by simply click and drag action and click on save button. This will reset timers and record you as a last person who calibrated it. 
+
+# Extra information
+ * Main screen will list all mining flowers in record. Top value indicates miner count. Name of flower. Timer when soonest miner will neeed recalibration, it will be shown in blue if time until recalibration is over 24 hours, in yellow if recalibration will be needed sooner than 24 hours and word "Calibrate!" will be shown when calibration is under previous defined minimalCalibration value. Lowest minimal calibration will be shown at all times. And last value is distance to this flower. Entire flower block can be enclosed with double line which will indicate it being closest to you.
+ * Secondary window shows all mining sites for that mining flower. At the top you will see predicted total ore amount in weight and volume. These values are being predicted, so actual value can be slightly different. You will have option to remove this flower by clicking in X, keep in mind that this would be needed to be done on all databases, otherwise it will be readded with next synchronization. Right bottom corner can be pressed to set destination to this flower center point.
+ * Mining site screen. Top left icon enables manual mode. Top right can remove mining site from records. Bottom right sets destination to it.
+
+
+# AR mode
+This mode will provide all the information you might need. You will see locations of all minig flowers with their basic information. You can hover over any of these to get more detailed information about it. You can hover over it and mouse click it to set destination to it. Getting closer to mining flower will update its AR visualization with more and more detailed information. You can turn off AR mode by pressing ALT+3
+
+# ToolTip
+![](tooltip.jpg)
+* Top line indicates version of the code
+* Fallowed by ships name. This will change if you have second ships PB enabled to indicate linkage between 2 cores
+* Alt+1 short cut wil manually attempt to grab data from closest mining sites. This is not needed to be done as it should be performed automatically, but you can try to synchronize data this way. Keep in mind that mining site needs to be loaded in for it to work
+* Alt+3 will toggle AR mode completely on and off
+* Alt+4 will show or hide flowers which are not the closest one, so only one closest flower could be shown on screen
+* Alt+5 will hide all flowers on different planets
+* Alt+9 will toggle off all previously mentioned keys on and off. Your options will be saved, so after picking what you want, disable their shortcuts to avoid compatability issues with flight scripts like ArchHud
