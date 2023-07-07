@@ -30,7 +30,7 @@ Now right click PB and enter into "Edit Lua Parameters" there are 2 ESSENTIAL va
    * Screen (optional)
    * DataBank
 
-Copy/paste LUA code from HERE into your Programable board (PB). FIRST LINK goes to receiver, remaining can go in any order. So links from PB goes to: Receiver, Emmiter, Databank and Screen.
+Copy/paste LUA code from [HERE](https://raw.githubusercontent.com/GcGoat/MinerSuite/main/ShipsPBLUA) into your Programable board (PB). FIRST LINK goes to receiver, remaining can go in any order. So links from PB goes to: Receiver, Emmiter, Databank and Screen.
   
 **Attention #1** You will need to link FROM receiver to PB in adition to linking PB to receiver, same as it was for mining site, it will have blue and green links between these 2 elements 
   
