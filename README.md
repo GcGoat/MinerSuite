@@ -83,3 +83,4 @@ This mode will provide all the information you might need. You will see location
 
 
 ![](SubScreen.jpg)
+![](MinerScreen.jpg)
