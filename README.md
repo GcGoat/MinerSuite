@@ -48,3 +48,8 @@ At this point you are fully setup and you can startup PB on your ship. Screen sh
 When that's done you should get AR mode on you screen showing detected miners and container with their status. Repeat Mining site setup for every mining site you have. This is one time setup, after that mining site status will be updated automatically each time you visit it to calibrate while having ship PB enabled. 
  
 
+## Synchronization
+  
+You can synchronize mining sites status between 2 ship PB's, setup is exactly the same for both ships, what you only need to do is turn both of them on (dont turn on third one, it will derp out). When 2 ship PB's are on you will get progress bar on your screen, this can repeat twice, after its over you can turn off one of the PB's and you are done. Depending on record amount this can take from a second to multiple ones, so just keep calm and enjoy view while its doing its thing.  
+# Recommendation 
+Have one central PB at your main org base which is used to synchronize latest information between ships, so that everyone who does mining site calibrations can synchroniza data before going to sites and after returning from those. If you are playing solo then this is not nesecerry. 
