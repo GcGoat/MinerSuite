@@ -10,7 +10,7 @@ This is 2 part instalation, one for mining site where your miners are at and one
    * Receiver
    * Emmiter
 
-Copy/paste LUA code from HERE into your Programable board (PB), from PB link to all elements, which would be: receiver, emmitter, container (or hub) and all mining units  
+Copy/paste LUA code from [HERE](https://raw.githubusercontent.com/GcGoat/MinerSuite/main/MiningSiteLUA) into your Programable board (PB), from PB link to all elements, which would be: receiver, emmitter, container (or hub) and all mining units  
 
 **Attention #1** You will need to link FROM receiver to PB in adition to linking PB to receiver, it will have blue and green links between these 2 elements 
 
