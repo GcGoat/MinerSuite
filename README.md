@@ -34,7 +34,7 @@ Now right-click PB and enter into "Edit Lua Parameters" there are 2 ESSENTIAL va
 
 Copy/paste the LUA code from [HERE](https://raw.githubusercontent.com/GcGoat/MinerSuite/main/ShipsPBLUA) into your Programmable board (PB). THE FIRST LINK goes to the receiver, the remaining can go in any order. So links from PB goes to: Receiver, Emmiter, Databank, and Screen.
   
-**Attention #1** You will need to link FROM receiver to PB in addition to linking PB to the receiver, the same as it was for the mining site, it will have blue and green links between these 2 elements 
+**Attention #1** You will only need to link from PB to elements
   
 Now right-click PB and enter into "Edit Lua Parameters" there is only one ESSENTIAL value you need to update
  * **emitterChannel** - same channel name you used for mining sites
